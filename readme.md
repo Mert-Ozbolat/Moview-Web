@@ -12,4 +12,4 @@ This project is a film search web page similar to IMDb, created using HTML, CSS,
 # Preview📺
 
 ![](./MovieWeb.gif)
-# Moview-Web
+
